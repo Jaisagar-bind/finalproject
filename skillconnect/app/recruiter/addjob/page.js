@@ -16,10 +16,10 @@ const page = () => {
   <div class="grid md:grid-cols-2 items-center gap-12">
     <div>
       <h1 class="text-3xl font-bold text-gray-800 sm:text-4xl lg:text-5xl lg:leading-tight dark:text-white">
-        Hire us
+        Join us
       </h1>
       <p class="mt-1 md:text-lg text-gray-800 dark:text-gray-200">
-        We help brands and platforms turn big ideas into beautiful digital products and experiences.
+       Discover talent. Post job vacancies. Join us in building a dynamic team. Shape your company's future. Connect now.
       </p>
 
       <div class="mt-8">
@@ -31,7 +31,7 @@ const page = () => {
           <li class="flex space-x-3">
             <svg class="flex-shrink-0 mt-0.5 h-5 w-5 text-gray-600 dark:text-gray-400" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>
             <span class="text-gray-600 dark:text-gray-400">
-              Industry-leading design
+              Skilled-full Applicants
             </span>
           </li>
 
@@ -45,7 +45,7 @@ const page = () => {
           <li class="flex space-x-3">
             <svg class="flex-shrink-0 mt-0.5 h-5 w-5 text-gray-600 dark:text-gray-400" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>
             <span class="text-gray-600 dark:text-gray-400">
-              Simple and affordable
+              Colaborative Environment
             </span>
           </li>
         </ul>
